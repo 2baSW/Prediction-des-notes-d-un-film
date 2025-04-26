@@ -1,6 +1,6 @@
 # Prediction des notes d'un film
 
-L’objectif de ce devoir est de créer un modèle sur Protege permettant de décrire des FILMs, 
+L’objectif de ce projet est de créer un modèle sur Protege permettant de décrire des FILMs, 
 des individus et des avis sur ces films, de peupler ce modèle avec les données issues de 
 données tabulaires et de définir des règles applicables sur la ABox permettant de prédire 
 l’avis d’une personne sur un film, règles que vous évaluerez.
